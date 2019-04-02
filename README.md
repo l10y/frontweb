@@ -1,4 +1,4 @@
-# work-entry
+# attendance
 
 ## Project setup
 ```
